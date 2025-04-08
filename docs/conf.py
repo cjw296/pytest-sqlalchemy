@@ -9,7 +9,7 @@ intersphinx_mapping = {
     'python': ('http://docs.python.org', None),
 }
 
-project = 'paradigms'
+project = 'pytest-sqlalchemy'
 author = 'Torsten Irländer'
 release = metadata.version(project)
 copyright = f'2015 onwards {author}'
